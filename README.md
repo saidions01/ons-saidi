@@ -3,7 +3,7 @@
 <div >
 
   <!-- Left GIF -->
-  <img align="left" width="330"
+  <img 
     src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" 
     
   />
