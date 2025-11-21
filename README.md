@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Ons Saidi 👋
 
-<img align="right" width="230" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
+<img align="left" width="330" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
 
 🎓 **Software Engineering Student** at ISSAT Sousse
 💡 Passionate about **AI**, **Mobile & Web Development**, and **Human‑Centered Tech**
