@@ -1,7 +1,7 @@
-# 🌟 Hi, I'm Ons Saidi 👋
+#  Hi, I'm Ons Saidi 👋
 <!-- Image + Description Side by Side -->
-<div style="display: flex; flex-direction: raw; justify-content: space-between;">
-  
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+
   <!-- Left GIF -->
   <img 
     src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" 
