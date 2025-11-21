@@ -1,26 +1,36 @@
 # 🌟 Hi, I'm Ons Saidi 👋
+<!-- Image + Description Side by Side -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  
+  <!-- Left GIF -->
+  <img 
+    src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" 
+    width="230" 
+    style="border-radius: 10px;"
+  />
 
-<img align="left" width="330" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-🎓 **Software Engineering Student** at ISSAT Sousse
-💡 Passionate about **AI**, **Mobile & Web Development**, and **Human‑Centered Tech**
-🌍 TJSP Alumna — Minnesota State University, Mankato
-🚀 Currently building: React Native apps, Device‑testing tools, and Microservices-based systems
-✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions.
+  <!-- Right Description -->
+  <div>
+    🎓 <strong>Software Engineering Student</strong> at ISSAT Sousse <br>
+    💡 Passionate about <strong>AI</strong>, <strong>Mobile & Web Development</strong>, and <strong>Human-Centered Tech</strong> <br>
+    🌍 TJSP Alumna — Minnesota State University, Mankato <br>
+    🚀 Currently building: React Native apps, Device-testing tools, and Microservices-based systems <br>
+    ✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions.
+  </div>
+
+</div>
+
+<br><br>
 
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🔭 What I'm Working On
 
-* 📱 Mobile apps with **React Native (Expo)**
-* 🧪 Testing tools for the **DualSense PS5 controller** using **Raspberry Pi + Electron + Node-HID**
-* 🛍 A Django-based e-commerce app with wishlist + gamified features
-* 🧠 AI/ML models using **Transformers**, **Deep Learning**, and **Optimization Algorithms**
-* 🗂 A custom API documentation generator in **Node.js** (Swagger-like)
+- 📱 Mobile apps with **React Native (Expo)**
+- 🧪 Testing tools for the **DualSense PS5 controller** using **Raspberry Pi + Electron + Node-HID**
+- 🛍 A Django-based e-commerce app with wishlist + gamified features
+- 🧠 AI/ML models using **Transformers**, **Deep Learning**, and **Optimization Algorithms**
+- 🗂 A custom API documentation generator in **Node.js** (Swagger-like)
 
 ---
 
