@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Ons Saidi 👋
 <!-- Image + Description Side by Side -->
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between;">
   
   <!-- Left GIF -->
   <img 
