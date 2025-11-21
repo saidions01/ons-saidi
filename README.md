@@ -1,12 +1,12 @@
 #  Hi, I'm Ons Saidi 👋
 <!-- Image + Description Side by Side -->
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div >
 
   <!-- Left GIF -->
   <img 
     src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" 
-    width="230" 
-    style="border-radius: 10px;"
+    align="left" width="330"
+    
   />
 
   <!-- Right Description -->
