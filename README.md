@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Ons Saidi 👋
 
 <img align="left" width="330"   style="margin-right: 20px;" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 🎓 **Software Engineering Student** at ISSAT Sousse
 💡 Passionate about **AI**, **Mobile & Web Development**, and **Human‑Centered Tech**
 🌍 TJSP Alumna — Minnesota State University, Mankato
@@ -9,6 +9,7 @@
 ✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions.
 
 ---
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🔭 What I'm Working On
 
