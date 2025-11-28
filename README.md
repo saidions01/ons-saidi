@@ -9,7 +9,7 @@
   <div>
     🎓 <strong>Software Engineering Student</strong> at ISSAT Sousse <br>
     💡 Passionate about <strong>AI</strong>, <strong>Mobile & Web Development</strong>, and <strong>Human-Centered Tech</strong> <br>
-    🌍 TJSP Alumna — Minnesota State University, Mankato <br>
+    🌍 TJSP Alumna at the Minnesota State University, Mankato <br>
     🚀 Currently building: React Native apps, Device-testing tools, and Microservices-based systems <br>
     ✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions.
   </div>
