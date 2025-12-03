@@ -1,64 +1,37 @@
-#  Hi, I'm Ons Saidi 👋
-<!-- Image + Description Side by Side -->
-<div >
+Hi, I'm Ons Saidi 👋
+<div style="display: flex; align-items: center; gap: 20px;"> <!-- Left GIF --> <img align="left" width="260" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" /> <!-- Right Description --> <div style="text-align: left;"> 🎓 <strong>Software Engineering Student</strong> at ISSAT Sousse <br> 💡 Passionate about <strong>AI</strong>, <strong>Mobile & Web Development</strong>, and <strong>Human-Centered Technology</strong> <br> 🌍 <strong>TJSP Alumna</strong> at Minnesota State University, Mankato <br> 🚀 Currently building: React Native apps, device-testing tools, microservices systems <br> ✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions. </div> </div>
+🔭 What I’m Working On
 
-  <!-- Left GIF -->
- <img align="left" width="330" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
+📱 Mobile apps with React Native (Expo)
 
-  <!-- Right Description -->
-  <div style="text-align: left; padding-left: 20px;">
-    🎓 <strong>Software Engineering Student</strong> at ISSAT Sousse <br>
-    💡 Passionate about <strong>AI</strong>, <strong>Mobile & Web Development</strong>, and <strong>Human-Centered Tech</strong> <br>
-    🌍 TJSP Alumna at the Minnesota State University, Mankato <br>
-    🚀 Currently building: React Native apps, Device-testing tools, and Microservices-based systems <br>
-    ✨ Loves creating clean UI, scalable backend architectures, and impactful tech solutions.
-  </div>
+🎮 Testing tools for the PS5 DualSense controller (Raspberry Pi + Electron + Node-HID)
 
-</div>
+🛍 A Django e-commerce platform with wishlist + gamification
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+🤖 AI/ML models using Transformers, Deep Learning, and optimization methods
 
----
+📘 An automated API documentation generator in Node.js
 
-## 🔭 What I'm Working On
+🛠 Tech Stack
+Frontend
 
-- 📱 Mobile apps with **React Native (Expo)**
-- 🧪 Testing tools for the **DualSense PS5 controller** using **Raspberry Pi + Electron + Node-HID**
-- 🛍 A Django-based e-commerce app with wishlist + gamified features
-- 🧠 AI/ML models using **Transformers**, **Deep Learning**, and **Optimization Algorithms**
-- 🗂 A custom API documentation generator in **Node.js** (Swagger-like)
+React • React Native • Vue • Expo • SAPUI5
 
----
+Backend
 
-## 🛠 Tech Stack
+Node.js • Express • Django • Flask
 
-**Frontend:** React, Vue, React Native, Expo, SAPUI5
-**Backend:** Node.js, Express, Django, Flask
-**AI/ML:** Python, PyTorch, TensorFlow
-**Databases:** MongoDB, Firebase, PostgreSQL
-**Cloud & Tools:** Docker, Jira, Git, Postman, Electron, Raspberry Pi
+AI/ML
 
----
+Python • PyTorch • TensorFlow
 
+Databases
 
-## ✨ Badges & Tools I Use
+MongoDB • Firebase • PostgreSQL
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+Tools & DevOps
 
----
+Docker • Jira • Git • Postman • Electron • Raspberry Pi
 
-📬 **Reach me at:**
-✉️ [ons.saidi@issatso.u-sousse.tn](mailto:ons.saidi@issatso.u-sousse.tn)
-🔗 LinkedIn: *https://www.linkedin.com/in/saidi-ons/*
-
----
-
-
+✨ Badges & Tools
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> </p>
