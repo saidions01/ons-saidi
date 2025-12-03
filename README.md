@@ -6,7 +6,7 @@
  <img align="left" width="330" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif" />
 
   <!-- Right Description -->
-  <div align="center">
+  <div style="text-align: left; padding-left: 20px;">
     🎓 <strong>Software Engineering Student</strong> at ISSAT Sousse <br>
     💡 Passionate about <strong>AI</strong>, <strong>Mobile & Web Development</strong>, and <strong>Human-Centered Tech</strong> <br>
     🌍 TJSP Alumna at the Minnesota State University, Mankato <br>
