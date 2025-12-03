@@ -13,7 +13,6 @@
         🚀 Currently building React Native apps, device‑testing tools, and microservices<br>
         ✨ I love creating clean UI, scalable backends, and impactful tech solutions.
       </p>
-     
     </td>
   </tr>
 </table>
