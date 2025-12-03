@@ -94,20 +94,5 @@ Badges
 - 🔗 LinkedIn: https://www.linkedin.com/in/saidi-ons/  
 - 🌱 Open to internships, collaborations, and mentoring opportunities.
 
----
 
-## Contributing / Support
-- If you find a typo or want to improve project docs, feel free to open an issue or submit a PR.  
-- You can support my work by starring repositories you find useful or following me on GitHub.
 
----
-
-## License
-This README and the example content are under the MIT License — feel free to reuse and adapt.
-
----
-
-If you'd like, I can:
-- Update this README directly in your repository (I can open a branch and commit the change) , say "push README" and I'll prepare the commit.  
-- Replace placeholder project links with actual repo URLs if you provide them or let me look them up in your account.  
-- Add GitHub README widgets (top languages, contribution graph, stat cards) , tell me which ones you want and I’ll add them.
